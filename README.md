@@ -29,5 +29,5 @@ after making changes to your code;
 - run git log (to check recent commits' history)
 - run git restore (to discard cganges to a file)?
 - run git branch (to check number of branches avaiable and the ative one)
-- run git -d branch_name (to delete a branch, use -D, with upper d to force delete)
+- run git branch -d branch_name (to delete a branch, use -D, with upper d to force delete)
 - run git remote -v (to check available remote repo connections)
